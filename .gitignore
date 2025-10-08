@@ -1,0 +1,13 @@
+# Data folder
+data/
+
+# Virtual Env
+.rossmann-sales-prediction/
+
+# Python related
+*.pyc
+__pycache__/
+.python-version
+
+# Jupyter related
+.ipynb_checkpoints/
