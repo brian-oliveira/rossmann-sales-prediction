@@ -1,5 +1,5 @@
 # Data folder
-data/
+# data/
 
 # Virtual Env
 .rossmann-sales-prediction/
@@ -11,3 +11,4 @@ __pycache__/
 
 # Jupyter related
 .ipynb_checkpoints/
+

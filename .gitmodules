@@ -1,0 +1,6 @@
+[submodule "rossmann-telegram-bot"]
+	path = rossmann-telegram-bot
+	url = https://github.com/brian-oliveira/rossmann-telegram-bot.git
+[submodule "app_render"]
+	path = app_render
+	url = https://github.com/brian-oliveira/app_render.git
